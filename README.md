@@ -1,0 +1,3 @@
+# Anexo TP Escalabilidad - Interfaces de Middleware
+
+En el presente repositorio se proveen interfaces base para Python y Golang para el desarrollo del TP de Escalabilidad. Se espera que los alumnos se basen en una de ellas para la implementación de la comunicación con el Middleware. Está permitido crear abstracciones de mayor órden sobre el código provisto, pero toda modificación al contrato expresado en estos archivos debe pactarse previamente con el corrector asignado.
